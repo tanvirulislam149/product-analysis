@@ -14,7 +14,6 @@ const Home = () => {
                 <div className='img-fluid'>
                     <img className='poster' src="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg" alt="" />
                 </div>
-                <h1>Just Checking</h1>
             </section>
 
             <Reviews></Reviews>
