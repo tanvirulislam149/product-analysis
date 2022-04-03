@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Amon Warmann",
+        "review": "So, Spiderman-No Way Home is flat out AMAZING. In fact, it's SPECTACULAR. I might even go as far as to say it's the ULTIMATE Spiderman Movie. They absolutely nailed it. Wow.",
+        "rating": 4.9
+    },
+    {
+        "id": 2,
+        "name": "Isiah",
+        "review": "I went to watch Spiderman-No Way Home twice in a day. That says a lot about how good the movie is!",
+        "rating": 4.8
+    },
+    {
+        "id": 3,
+        "name": "Lewis Cooper",
+        "review": "Spiderman-No Way Home was simply incredible. Top-tier MCU.",
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "name": "Ali Plumb",
+        "review": "You all should watch Spiderman-No Way Home because there were tears of joy and just flat-out tears in the cinema.",
+        "rating": 4.9
+    },
+    {
+        "id": 5,
+        "name": "Faima Baker",
+        "review": "Spiderman-No Way Home was so amazing. I feel like a changed person.",
+        "rating": 4.5
+    },
+    {
+        "id": 6,
+        "name": "Damien",
+        "review": "Spiderman-No Way Home was phenomenal!! I need to see it again. ",
+        "rating": 4.9
+    }
+]
