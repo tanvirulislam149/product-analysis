@@ -13,7 +13,7 @@ const Dashboard = () => {
 
     function FirstChart() {
         return (
-            <ResponsiveContainer width="100%" height="100%">
+            <ResponsiveContainer width="100%" height={400}>
                 <AreaChart
                     width={600}
                     height={400}

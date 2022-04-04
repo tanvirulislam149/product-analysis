@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
-import { Link } from 'react-router-dom';
+import CustomLink from '../CustomLink/CustomLink';
 
 const Header = () => {
     return (
@@ -14,10 +14,10 @@ const Header = () => {
                             style={{ maxHeight: '100px' }}
                             navbarScroll
                         >
-                            <Link className='me-4 text-body fw-bold text-decoration-none' to="/">HOME</Link>
-                            <Link className='me-4 text-body fw-bold text-decoration-none' to="/allReview">REVIEW</Link>
-                            <Link className='me-4 text-body fw-bold text-decoration-none' to="/dashboard">DASHBOARD</Link>
-                            <Link className='me-4 text-body fw-bold text-decoration-none' to="/blogs">BLOGS</Link>
+                            <CustomLink className='me-4 fw-bold text-decoration-none' to="/">HOME</CustomLink>
+                            <CustomLink className='me-4 fw-bold text-decoration-none' to="/allReview">REVIEW</CustomLink>
+                            <CustomLink className='me-4 fw-bold text-decoration-none' to="/dashboard">DASHBOARD</CustomLink>
+                            <CustomLink className='me-4 fw-bold text-decoration-none' to="/blogs">BLOGS</CustomLink>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>

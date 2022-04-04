@@ -1,5 +1,21 @@
 .poster {
-    height: 550px;
-    width: 400px;
+    /* height: 100%; */
+    width: 70%;
     border-radius: 20px;
+}
+
+.home {
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 768px) {
+    .home {
+        display: block;
+    }
+
+    .poster {
+        width: 100%;
+    }
+
 }
