@@ -1,6 +1,6 @@
 # Film Critic
 
-Click here to see [Live site](https://github.com/facebook/create-react-app).
+Click here to see [Live site](https://film-critic-592a4f.netlify.app/).
 
 ### Description
 * It is a website containing reviews of some people about the movie SpiderMan-No Way Home.
